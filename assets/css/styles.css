@@ -580,6 +580,12 @@ img {
 .skills__c{
   width: 65%;
 }
+.skills__mc4ai{
+  width: 70%;
+}
+.skills__ml4ai{
+  width: 60%;
+}
 
 /*soft-skills*/
 .skills__interpersonal{
